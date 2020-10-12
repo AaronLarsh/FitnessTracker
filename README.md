@@ -16,7 +16,9 @@
 
   ---
   ## Installation
-  
+  No install needed. Simply go here:
+  https://fitness-tracker-al.herokuapp.com/
+
 
   ---
   ## Usage
